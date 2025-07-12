@@ -1,0 +1,8 @@
+*.user
+*.vs/
+*.suo
+*.cache
+*.log
+bin/
+obj/
+.vscode/
