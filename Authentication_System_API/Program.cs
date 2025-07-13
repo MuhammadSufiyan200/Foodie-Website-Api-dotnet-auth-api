@@ -59,7 +59,10 @@ namespace Authentication_System_API
                 //policy => policy.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader().AllowCredentials());
                 options.AddPolicy("AllowAngular", policy =>
                 {
-                    policy.AllowAnyOrigin()
+                    policy.WithOrigins(
+                                "https://angular-auth-ai-app-with-api-v9l5.vercel.app", // <-- apka actual Vercel URL
+                                "http://localhost:4200" // for local testing (optional)
+                            )
                           .AllowAnyMethod()
                           .AllowAnyHeader();
                 });
@@ -88,7 +91,7 @@ namespace Authentication_System_API
             //}
 
 
-            app.UseHttpsRedirection(); // ya line hatani hn temparary...???
+            //app.UseHttpsRedirection(); // ya line hatani hn temparary...???
             app.MapControllers();
 
             app.Run();
