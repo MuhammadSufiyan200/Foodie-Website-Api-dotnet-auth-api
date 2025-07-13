@@ -1,19 +1,17 @@
-# Build stage
+# Use official .NET SDK image for building
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copy csproj and restore
-COPY *.sln .
-COPY Authentication_System_API/*.csproj ./Authentication_System_API/
+COPY *.csproj ./
 RUN dotnet restore
 
-# Copy the rest of the files and build
-COPY . .
-WORKDIR /app/Authentication_System_API
+# Copy everything else and build
+COPY . ./
 RUN dotnet publish -c Release -o out
 
-# Runtime stage
+# Runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build /app/Authentication_System_API/out ./
+COPY --from=build /app/out .
 ENTRYPOINT ["dotnet", "Authentication_System_API.dll"]
