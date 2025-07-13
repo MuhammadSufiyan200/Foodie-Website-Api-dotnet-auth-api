@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: auth-api
+    runtime: dotnet
+    repo: https://github.com/MuhammadSufiyan200/Foodie-Website-Api-dotnet-auth-api.git
+    branch: main
+    buildCommand: "dotnet publish -c Release -o ./publish"
+    startCommand: "dotnet ./publish/Authentication_System_API.dll"
+    publishPath: ./publish
