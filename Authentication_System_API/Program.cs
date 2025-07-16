@@ -17,12 +17,17 @@ namespace Authentication_System_API
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddDataProtection()
-            .PersistKeysToFileSystem(new DirectoryInfo(@"F:\Sufiyan.net\Keys\"))
+            //.PersistKeysToFileSystem(new DirectoryInfo(@"F:\Sufiyan.net\Keys\"))
+            .PersistKeysToFileSystem(new DirectoryInfo(Path.Combine(AppContext.BaseDirectory, "Keys")))
             .SetApplicationName("Authentication_System_API");
 
             //Add for DbConnection
+            //builder.Services.AddDbContext<ApplictionDbContext>(options =>
+            //options.UseSqlServer(builder.Configuration.GetConnectionString("Conn_String")));
+
+            //Add for DbConnection on PostgreSQL
             builder.Services.AddDbContext<ApplictionDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("Conn_String")));
+            options.UseNpgsql(builder.Configuration.GetConnectionString("Conn_String")));
 
             //Add for Jwt
             var key = Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]);
