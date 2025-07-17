@@ -173,3 +173,6 @@ F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\obj\Debug\net
 F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\obj\Debug\net8.0\staticwebassets.build.json.cache
 F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\obj\Debug\net8.0\Authentication_System_API.sourcelink.json
+F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\bin\Debug\net8.0\Npgsql.dll
+F:\Sufiyan.net\Authentication_System_API\Authentication_System_API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
