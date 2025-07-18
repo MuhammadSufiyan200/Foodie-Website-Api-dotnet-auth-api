@@ -1,1 +1,537 @@
-{"Version":1,"Hash":"95Kd+XXzuW44CkjvITw74FO2pbO8t+xGf0p+SZqxBpE=","Source":"Authentication_System_API","BasePath":"_content/Authentication_System_API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"Authentication_System_API\\wwwroot","Source":"Authentication_System_API","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","Pattern":"**"}],"Assets":[{"Identity":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg","SourceId":"Authentication_System_API","SourceType":"Discovered","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","RelativePath":"Image/6f5203e8-c495-46c1-9b22-8899d41cd650#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"48z3mdj9ks","Integrity":"7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg","FileLength":2716641,"LastWriteTime":"2025-05-04T17:56:34+00:00"},{"Identity":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg","SourceId":"Authentication_System_API","SourceType":"Discovered","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","RelativePath":"Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"eerqp14rsa","Integrity":"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg","FileLength":2996549,"LastWriteTime":"2025-05-01T14:16:01+00:00"},{"Identity":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg","SourceId":"Authentication_System_API","SourceType":"Discovered","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","RelativePath":"Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"eerqp14rsa","Integrity":"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg","FileLength":2996549,"LastWriteTime":"2025-06-01T12:21:13+00:00"},{"Identity":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg","SourceId":"Authentication_System_API","SourceType":"Discovered","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","RelativePath":"Image/d57247ba-9cd0-462d-9311-576f1f7e44ad#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"tiztcd5vgz","Integrity":"67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg","FileLength":2122260,"LastWriteTime":"2025-05-04T17:53:44+00:00"},{"Identity":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg","SourceId":"Authentication_System_API","SourceType":"Discovered","ContentRoot":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\","BasePath":"_content/Authentication_System_API","RelativePath":"Image/f9076012-42d2-442a-905d-9d44f2c89a32#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"mfkmu61r8f","Integrity":"Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg","FileLength":1725492,"LastWriteTime":"2025-05-04T17:54:55+00:00"}],"Endpoints":[{"Route":"Image/6f5203e8-c495-46c1-9b22-8899d41cd650.48z3mdj9ks.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2716641"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:56:34 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"48z3mdj9ks"},{"Name":"label","Value":"Image/6f5203e8-c495-46c1-9b22-8899d41cd650.jpg"},{"Name":"integrity","Value":"sha256-7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs="}]},{"Route":"Image/6f5203e8-c495-46c1-9b22-8899d41cd650.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2716641"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:56:34 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs="}]},{"Route":"Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.eerqp14rsa.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2996549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 14:16:01 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"eerqp14rsa"},{"Name":"label","Value":"Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg"},{"Name":"integrity","Value":"sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="}]},{"Route":"Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2996549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 14:16:01 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="}]},{"Route":"Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.eerqp14rsa.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2996549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 12:21:13 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"eerqp14rsa"},{"Name":"label","Value":"Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg"},{"Name":"integrity","Value":"sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="}]},{"Route":"Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2996549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 12:21:13 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="}]},{"Route":"Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2122260"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:53:44 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA="}]},{"Route":"Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.tiztcd5vgz.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2122260"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:53:44 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"tiztcd5vgz"},{"Name":"label","Value":"Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg"},{"Name":"integrity","Value":"sha256-67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA="}]},{"Route":"Image/f9076012-42d2-442a-905d-9d44f2c89a32.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1725492"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:54:55 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM="}]},{"Route":"Image/f9076012-42d2-442a-905d-9d44f2c89a32.mfkmu61r8f.jpg","AssetFile":"F:\\Sufiyan.net\\Authentication_System_API\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1725492"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=\""},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 17:54:55 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"mfkmu61r8f"},{"Name":"label","Value":"Image/f9076012-42d2-442a-905d-9d44f2c89a32.jpg"},{"Name":"integrity","Value":"sha256-Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM="}]}]}
+{
+  "Version": 1,
+  "Hash": "kRlIKZbPtf0VelhxDmNswOup1aD0YBDCagM5XTccXXQ=",
+  "Source": "Authentication_System_API",
+  "BasePath": "_content/Authentication_System_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authentication_System_API\\wwwroot",
+      "Source": "Authentication_System_API",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg",
+      "SourceId": "Authentication_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "RelativePath": "Image/6f5203e8-c495-46c1-9b22-8899d41cd650#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48z3mdj9ks",
+      "Integrity": "7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg"
+    },
+    {
+      "Identity": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg",
+      "SourceId": "Authentication_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "RelativePath": "Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eerqp14rsa",
+      "Integrity": "ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg"
+    },
+    {
+      "Identity": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg",
+      "SourceId": "Authentication_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "RelativePath": "Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eerqp14rsa",
+      "Integrity": "ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg"
+    },
+    {
+      "Identity": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg",
+      "SourceId": "Authentication_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "RelativePath": "Image/d57247ba-9cd0-462d-9311-576f1f7e44ad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tiztcd5vgz",
+      "Integrity": "67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg"
+    },
+    {
+      "Identity": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg",
+      "SourceId": "Authentication_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\",
+      "BasePath": "_content/Authentication_System_API",
+      "RelativePath": "Image/f9076012-42d2-442a-905d-9d44f2c89a32#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mfkmu61r8f",
+      "Integrity": "Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Image/6f5203e8-c495-46c1-9b22-8899d41cd650.48z3mdj9ks.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2716641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48z3mdj9ks"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/6f5203e8-c495-46c1-9b22-8899d41cd650.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs="
+        }
+      ]
+    },
+    {
+      "Route": "Image/6f5203e8-c495-46c1-9b22-8899d41cd650.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\6f5203e8-c495-46c1-9b22-8899d41cd650.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2716641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JD8ZrukyTnQadc7Nkl5zu3i/EPoVWQLnIqO6OugwHs="
+        }
+      ]
+    },
+    {
+      "Route": "Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.eerqp14rsa.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2996549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eerqp14rsa"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="
+        }
+      ]
+    },
+    {
+      "Route": "Image/80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\80791e4e-2e5a-4f8b-b3be-d0c6f59214be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2996549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="
+        }
+      ]
+    },
+    {
+      "Route": "Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.eerqp14rsa.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2996549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eerqp14rsa"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="
+        }
+      ]
+    },
+    {
+      "Route": "Image/8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\8a6f858c-e456-4a15-9bd1-59d84e4273aa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2996549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypUQ7puW4BXg6zwAGZHtp+6QuDLp8VSxpNmL53jwNt4="
+        }
+      ]
+    },
+    {
+      "Route": "Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2122260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA="
+        }
+      ]
+    },
+    {
+      "Route": "Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.tiztcd5vgz.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2122260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tiztcd5vgz"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/d57247ba-9cd0-462d-9311-576f1f7e44ad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-67Yrs8M8nvvu8ki7dGuNUquxefvFjLssjjLh4y+zLJA="
+        }
+      ]
+    },
+    {
+      "Route": "Image/f9076012-42d2-442a-905d-9d44f2c89a32.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1725492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM="
+        }
+      ]
+    },
+    {
+      "Route": "Image/f9076012-42d2-442a-905d-9d44f2c89a32.mfkmu61r8f.jpg",
+      "AssetFile": "D:\\CRPL CMS PROJECT\\MyProjects\\Foodie-Website-Api-dotnet-auth-api\\Authentication_System_API\\wwwroot\\Image\\f9076012-42d2-442a-905d-9d44f2c89a32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1725492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 06:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfkmu61r8f"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/f9076012-42d2-442a-905d-9d44f2c89a32.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dml7FKzTic/QsPB993wQ2eIY/oToG3jmQuq7ikGrShM="
+        }
+      ]
+    }
+  ]
+}
