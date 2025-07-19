@@ -99,6 +99,22 @@
   },
   {
     "ContainingType": "Authentication_System_API.Controllers.AuthController",
+    "Method": "SocialLogin",
+    "RelativePath": "api/Auth/SocialLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Authentication_System_API.DTO.SocialLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Authentication_System_API.Controllers.AuthController",
     "Method": "Update_Password",
     "RelativePath": "api/Auth/Update_Password",
     "HttpMethod": "PUT",

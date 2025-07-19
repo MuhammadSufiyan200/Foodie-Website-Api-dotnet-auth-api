@@ -6,7 +6,46 @@ namespace Authentication_System_API.Data
     public class ApplictionDbContext : DbContext
     {
         public ApplictionDbContext(DbContextOptions<ApplictionDbContext> options) : base(options)
-        {     
+        {
+        }
+
+        public override int SaveChanges()
+        {
+            foreach (var entry in ChangeTracker.Entries())
+            {
+                foreach (var prop in entry.Properties)
+                {
+                    if (prop.Metadata.ClrType == typeof(DateTime) && prop.CurrentValue != null)
+                    {
+                        var dt = (DateTime)prop.CurrentValue;
+                        if (dt.Kind == DateTimeKind.Local)
+                        {
+                            prop.CurrentValue = dt.ToUniversalTime(); // Convert to UTC
+                        }
+                    }
+                }
+            }
+
+            return base.SaveChanges();
+        }
+        public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            foreach (var entry in ChangeTracker.Entries())
+            {
+                foreach (var prop in entry.Properties)
+                {
+                    if (prop.Metadata.ClrType == typeof(DateTime) && prop.CurrentValue != null)
+                    {
+                        var dt = (DateTime)prop.CurrentValue;
+                        if (dt.Kind == DateTimeKind.Local)
+                        {
+                            prop.CurrentValue = dt.ToUniversalTime(); // Convert to UTC
+                        }
+                    }
+                }
+            }
+
+            return await base.SaveChangesAsync(cancellationToken);
         }
 
         public DbSet<User> Tbl_User { get; set; }
@@ -14,7 +53,7 @@ namespace Authentication_System_API.Data
         public DbSet<SystemLog> Tbl_SystemLogs { get; set; }
 
 
-       // Inventory Management
+        // Inventory Management
         public DbSet<ItemCategory> Tbl_ItemCategories { get; set; }
         public DbSet<Unit> Tbl_Units { get; set; }
         public DbSet<InventoryItem> Tbl_InventoryItems { get; set; }

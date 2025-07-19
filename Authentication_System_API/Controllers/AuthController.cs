@@ -84,7 +84,7 @@ namespace Authentication_System_API.Controllers
                         UserId = null,
                         Action = "Failed Login Attempt",
                         LogLevel = "Warning",
-                        TimeStamp = DateTime.Now,
+                        TimeStamp = DateTime.UtcNow,
                         IPAddress = $"Email: {user.Email}, IP: {user.IpAddress}"
                     };
                     _context.Tbl_SystemLogs.Add(warningLog);
@@ -119,7 +119,7 @@ namespace Authentication_System_API.Controllers
                     IpAddress = user.IpAddress ?? "N/A",
                     Location = user.Location ?? "Unknown",
                     Token = token.ToString(),
-                    LoginTime = DateTime.Now
+                    LoginTime = DateTime.UtcNow
                 };
                 _context.Tbl_ActiveSessions.Add(session);
                 await _context.SaveChangesAsync();
@@ -129,7 +129,7 @@ namespace Authentication_System_API.Controllers
 
                 if (existingLog != null)
                 {
-                    existingLog.TimeStamp = DateTime.Now;
+                    existingLog.TimeStamp = DateTime.UtcNow;
                     existingLog.LogLevel = "Info";
                     existingLog.IPAddress = $"Device: {GetShortDeviceInfo(session.DeviceInfo)}, IP: {session.IpAddress}, Location: {session.Location}";
                     _context.Tbl_SystemLogs.Update(existingLog);
@@ -141,7 +141,7 @@ namespace Authentication_System_API.Controllers
                         UserId = Existinguser.Id,
                         Action = "Login",
                         LogLevel = "Info",
-                        TimeStamp = DateTime.Now,
+                        TimeStamp = DateTime.UtcNow,
                         IPAddress = $"Device: {GetShortDeviceInfo(session.DeviceInfo)}, IP: {session.IpAddress}, Location: {session.Location}"
                     };
                     _context.Tbl_SystemLogs.Add(log);
@@ -158,7 +158,7 @@ namespace Authentication_System_API.Controllers
                     UserId = null,
                     Action = "Login Exception",
                     LogLevel = "Error",
-                    TimeStamp = DateTime.Now,
+                    TimeStamp = DateTime.UtcNow,
                     IPAddress = ex.Message
                 };
                 _context.Tbl_SystemLogs.Add(errorLog);
@@ -224,7 +224,7 @@ namespace Authentication_System_API.Controllers
                 IpAddress = model.IpAddress ?? "N/A",
                 Location = model.Location ?? "Unknown",
                 Token = Tokenstring,
-                LoginTime = DateTime.Now
+                LoginTime = DateTime.UtcNow
             };
 
             _context.Tbl_ActiveSessions.Add(session);
@@ -279,7 +279,7 @@ namespace Authentication_System_API.Controllers
             string location = sessions.FirstOrDefault()?.Location ?? "Unknown";
             if (existingLog != null)
             {
-                existingLog.TimeStamp = DateTime.Now;
+                existingLog.TimeStamp = DateTime.UtcNow;
                 existingLog.Action = "Logout";
                 existingLog.LogLevel = "Info";
                 existingLog.IPAddress = $"Device: {device}, IP: {ip}, Location: {location}";
